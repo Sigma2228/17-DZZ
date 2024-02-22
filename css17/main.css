@@ -100,9 +100,6 @@
         border: #ECECEC 1px solid;
         flex-basis: calc((100% - 60px) /3 );
     }
-    figure:first-child {
-        box-shadow: 1px 4px 6px 0 #00000029;
-    }
     figure:hover {
         box-shadow: 1px 4px 6px 0 #00000029;
         cursor: pointer;
